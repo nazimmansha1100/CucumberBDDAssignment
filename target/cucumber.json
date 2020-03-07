@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 6943967322,
+              "duration": 5783063926,
               "status": "passed"
             },
             "match": {
@@ -18,12 +18,23 @@
         "name": "Filter by review and add to trolley",
         "description": "",
         "id": "filter;filter-by-review-and-add-to-trolley",
+        "after": [
+          {
+            "result": {
+              "duration": 3293721266,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 740441988,
+              "duration": 517063700,
               "status": "passed"
             },
             "line": 9,
@@ -35,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 7636684887,
+              "duration": 2869353529,
               "status": "passed"
             },
             "line": 10,
@@ -53,7 +64,7 @@
           },
           {
             "result": {
-              "duration": 4540681057,
+              "duration": 5762399292,
               "status": "passed"
             },
             "line": 11,
@@ -71,7 +82,7 @@
           },
           {
             "result": {
-              "duration": 1021647585,
+              "duration": 3367470856,
               "status": "passed"
             },
             "line": 12,
@@ -89,7 +100,7 @@
           },
           {
             "result": {
-              "duration": 6324998138,
+              "duration": 4780327074,
               "status": "passed"
             },
             "line": 13,
@@ -127,7 +138,7 @@
         "before": [
           {
             "result": {
-              "duration": 5367273297,
+              "duration": 3314777102,
               "status": "passed"
             },
             "match": {
@@ -139,12 +150,23 @@
         "name": "Filter by review and add to trolley",
         "description": "",
         "id": "filter;filter-by-review-and-add-to-trolley",
+        "after": [
+          {
+            "result": {
+              "duration": 3273070820,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 378775284,
+              "duration": 133912580,
               "status": "passed"
             },
             "line": 9,
@@ -156,7 +178,7 @@
           },
           {
             "result": {
-              "duration": 6193351106,
+              "duration": 4568037665,
               "status": "passed"
             },
             "line": 10,
@@ -174,7 +196,7 @@
           },
           {
             "result": {
-              "duration": 2602309384,
+              "duration": 1552117528,
               "status": "passed"
             },
             "line": 11,
@@ -192,7 +214,7 @@
           },
           {
             "result": {
-              "duration": 2349269450,
+              "duration": 2214301686,
               "status": "passed"
             },
             "line": 12,
@@ -204,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 5226438681,
+              "duration": 4252488235,
               "status": "passed"
             },
             "line": 13,
@@ -216,7 +238,7 @@
           },
           {
             "result": {
-              "duration": 1274194145,
+              "duration": 1249908067,
               "status": "passed"
             },
             "line": 14,
@@ -234,7 +256,7 @@
           },
           {
             "result": {
-              "duration": 2045010555,
+              "duration": 2032724660,
               "status": "passed"
             },
             "line": 15,
@@ -246,7 +268,7 @@
           },
           {
             "result": {
-              "duration": 44765061,
+              "duration": 30458897,
               "status": "passed"
             },
             "line": 16,
@@ -258,7 +280,7 @@
           },
           {
             "result": {
-              "duration": 541153259,
+              "duration": 350820150,
               "status": "passed"
             },
             "line": 17,
@@ -276,7 +298,7 @@
           },
           {
             "result": {
-              "duration": 1996246402,
+              "duration": 1382658417,
               "status": "passed"
             },
             "line": 18,
@@ -288,7 +310,7 @@
           },
           {
             "result": {
-              "duration": 6267625723,
+              "duration": 6771403193,
               "status": "passed"
             },
             "line": 19,
@@ -326,7 +348,7 @@
         "before": [
           {
             "result": {
-              "duration": 6436500795,
+              "duration": 3006301562,
               "status": "passed"
             },
             "match": {
@@ -338,12 +360,23 @@
         "name": "Filter by review and add to trolley",
         "description": "",
         "id": "filter;filter-by-review-and-add-to-trolley;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3256575830,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 344229152,
+              "duration": 220038179,
               "status": "passed"
             },
             "line": 9,
@@ -355,7 +388,7 @@
           },
           {
             "result": {
-              "duration": 5571409175,
+              "duration": 4732020713,
               "status": "passed"
             },
             "line": 10,
@@ -376,7 +409,7 @@
           },
           {
             "result": {
-              "duration": 7646614488,
+              "duration": 948801278,
               "status": "passed"
             },
             "line": 11,
@@ -397,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 2969366491,
+              "duration": 2251794431,
               "status": "passed"
             },
             "line": 12,
@@ -409,7 +442,7 @@
           },
           {
             "result": {
-              "duration": 5892806971,
+              "duration": 4518247175,
               "status": "passed"
             },
             "line": 13,
@@ -421,7 +454,7 @@
           },
           {
             "result": {
-              "duration": 2727665569,
+              "duration": 795730131,
               "status": "passed"
             },
             "line": 14,
@@ -442,7 +475,7 @@
           },
           {
             "result": {
-              "duration": 2031523684,
+              "duration": 2254875658,
               "status": "passed"
             },
             "line": 15,
@@ -454,7 +487,7 @@
           },
           {
             "result": {
-              "duration": 47194131,
+              "duration": 51098959,
               "status": "passed"
             },
             "line": 16,
@@ -466,7 +499,7 @@
           },
           {
             "result": {
-              "duration": 628717304,
+              "duration": 424373681,
               "status": "passed"
             },
             "line": 17,
@@ -487,7 +520,7 @@
           },
           {
             "result": {
-              "duration": 1470729522,
+              "duration": 1349868195,
               "status": "passed"
             },
             "line": 18,
@@ -499,7 +532,7 @@
           },
           {
             "result": {
-              "duration": 6131234320,
+              "duration": 6555197312,
               "status": "passed"
             },
             "line": 19,
@@ -525,7 +558,7 @@
         "before": [
           {
             "result": {
-              "duration": 6443766188,
+              "duration": 2992071498,
               "status": "passed"
             },
             "match": {
@@ -537,12 +570,23 @@
         "name": "Filter by review and add to trolley",
         "description": "",
         "id": "filter;filter-by-review-and-add-to-trolley;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 3255476258,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 302488006,
+              "duration": 202012239,
               "status": "passed"
             },
             "line": 9,
@@ -554,7 +598,7 @@
           },
           {
             "result": {
-              "duration": 3867732431,
+              "duration": 4079538321,
               "status": "passed"
             },
             "line": 10,
@@ -575,7 +619,7 @@
           },
           {
             "result": {
-              "duration": 5404031182,
+              "duration": 1618834405,
               "status": "passed"
             },
             "line": 11,
@@ -596,7 +640,7 @@
           },
           {
             "result": {
-              "duration": 2368814329,
+              "duration": 2209999452,
               "status": "passed"
             },
             "line": 12,
@@ -608,7 +652,7 @@
           },
           {
             "result": {
-              "duration": 5085542348,
+              "duration": 4686971145,
               "status": "passed"
             },
             "line": 13,
@@ -620,7 +664,7 @@
           },
           {
             "result": {
-              "duration": 2052842377,
+              "duration": 976152659,
               "status": "passed"
             },
             "line": 14,
@@ -641,7 +685,7 @@
           },
           {
             "result": {
-              "duration": 2033061838,
+              "duration": 2030041989,
               "status": "passed"
             },
             "line": 15,
@@ -653,7 +697,7 @@
           },
           {
             "result": {
-              "duration": 69485283,
+              "duration": 33259579,
               "status": "passed"
             },
             "line": 16,
@@ -665,7 +709,7 @@
           },
           {
             "result": {
-              "duration": 614126486,
+              "duration": 294214759,
               "status": "passed"
             },
             "line": 17,
@@ -686,7 +730,7 @@
           },
           {
             "result": {
-              "duration": 1394655583,
+              "duration": 1811338676,
               "status": "passed"
             },
             "line": 18,
@@ -698,7 +742,7 @@
           },
           {
             "result": {
-              "duration": 6139356674,
+              "duration": 6471909444,
               "status": "passed"
             },
             "line": 19,
@@ -740,7 +784,7 @@
         "before": [
           {
             "result": {
-              "duration": 5876911475,
+              "duration": 3739148911,
               "status": "passed"
             },
             "match": {
@@ -752,12 +796,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3224694125,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 450199437,
+              "duration": 158099046,
               "status": "passed"
             },
             "line": 9,
@@ -769,7 +824,7 @@
           },
           {
             "result": {
-              "duration": 9622957550,
+              "duration": 1924910446,
               "status": "passed"
             },
             "line": 10,
@@ -790,7 +845,7 @@
           },
           {
             "result": {
-              "duration": 4903866859,
+              "duration": 3788279752,
               "status": "passed"
             },
             "line": 11,
@@ -811,7 +866,7 @@
           },
           {
             "result": {
-              "duration": 32400,
+              "duration": 32639,
               "status": "passed"
             },
             "line": 12,
@@ -837,7 +892,7 @@
         "before": [
           {
             "result": {
-              "duration": 6731871887,
+              "duration": 2906462851,
               "status": "passed"
             },
             "match": {
@@ -849,12 +904,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 3224541646,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 1012813599,
+              "duration": 294709178,
               "status": "passed"
             },
             "line": 9,
@@ -866,7 +932,7 @@
           },
           {
             "result": {
-              "duration": 5034052138,
+              "duration": 1900030685,
               "status": "passed"
             },
             "line": 10,
@@ -887,7 +953,7 @@
           },
           {
             "result": {
-              "duration": 5504996707,
+              "duration": 3235248839,
               "status": "passed"
             },
             "line": 11,
@@ -908,7 +974,7 @@
           },
           {
             "result": {
-              "duration": 23512,
+              "duration": 28983,
               "status": "passed"
             },
             "line": 12,
@@ -934,7 +1000,7 @@
         "before": [
           {
             "result": {
-              "duration": 6210483816,
+              "duration": 3130365864,
               "status": "passed"
             },
             "match": {
@@ -946,12 +1012,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 3241063850,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 639328532,
+              "duration": 107947605,
               "status": "passed"
             },
             "line": 9,
@@ -963,7 +1040,7 @@
           },
           {
             "result": {
-              "duration": 10008771499,
+              "duration": 4861146344,
               "status": "passed"
             },
             "line": 10,
@@ -984,7 +1061,7 @@
           },
           {
             "result": {
-              "duration": 3065464092,
+              "duration": 1274255141,
               "status": "passed"
             },
             "line": 11,
@@ -1005,7 +1082,7 @@
           },
           {
             "result": {
-              "duration": 27455,
+              "duration": 21705,
               "status": "passed"
             },
             "line": 12,
@@ -1047,7 +1124,7 @@
         "before": [
           {
             "result": {
-              "duration": 7259679655,
+              "duration": 3284525926,
               "status": "passed"
             },
             "match": {
@@ -1059,12 +1136,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3159291058,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 439555233,
+              "duration": 189641332,
               "status": "passed"
             },
             "line": 9,
@@ -1076,7 +1164,7 @@
           },
           {
             "result": {
-              "duration": 2565992016,
+              "duration": 1870822649,
               "status": "passed"
             },
             "line": 10,
@@ -1097,7 +1185,7 @@
           },
           {
             "result": {
-              "duration": 7721706018,
+              "duration": 2872715460,
               "status": "passed"
             },
             "line": 11,
@@ -1118,7 +1206,7 @@
           },
           {
             "result": {
-              "duration": 3637401453,
+              "duration": 1894361220,
               "status": "passed"
             },
             "line": 12,
@@ -1139,7 +1227,7 @@
           },
           {
             "result": {
-              "duration": 39099,
+              "duration": 16354,
               "status": "passed"
             },
             "line": 13,
@@ -1165,7 +1253,7 @@
         "before": [
           {
             "result": {
-              "duration": 7504598333,
+              "duration": 2958550933,
               "status": "passed"
             },
             "match": {
@@ -1177,12 +1265,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 3162562736,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 579049576,
+              "duration": 115594818,
               "status": "passed"
             },
             "line": 9,
@@ -1194,7 +1293,7 @@
           },
           {
             "result": {
-              "duration": 9217753408,
+              "duration": 4046879909,
               "status": "passed"
             },
             "line": 10,
@@ -1215,7 +1314,7 @@
           },
           {
             "result": {
-              "duration": 4666716505,
+              "duration": 1341296846,
               "status": "passed"
             },
             "line": 11,
@@ -1236,7 +1335,7 @@
           },
           {
             "result": {
-              "duration": 899535359,
+              "duration": 432386235,
               "status": "passed"
             },
             "line": 12,
@@ -1257,7 +1356,7 @@
           },
           {
             "result": {
-              "duration": 22870,
+              "duration": 20129,
               "status": "passed"
             },
             "line": 13,
@@ -1299,7 +1398,7 @@
         "before": [
           {
             "result": {
-              "duration": 7747143562,
+              "duration": 3013728182,
               "status": "passed"
             },
             "match": {
@@ -1311,12 +1410,23 @@
         "name": "Filter by review",
         "description": "",
         "id": "filter;filter-by-review",
+        "after": [
+          {
+            "result": {
+              "duration": 3175922901,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 685149505,
+              "duration": 490834501,
               "status": "passed"
             },
             "line": 9,
@@ -1328,7 +1438,7 @@
           },
           {
             "result": {
-              "duration": 1591806726,
+              "duration": 5539536805,
               "status": "passed"
             },
             "line": 10,
@@ -1346,7 +1456,7 @@
           },
           {
             "result": {
-              "duration": 7789303524,
+              "duration": 1363699884,
               "status": "passed"
             },
             "line": 11,
@@ -1364,7 +1474,7 @@
           },
           {
             "result": {
-              "duration": 4204805369,
+              "duration": 3123516162,
               "status": "passed"
             },
             "line": 12,
@@ -1412,7 +1522,7 @@
         "before": [
           {
             "result": {
-              "duration": 6603592057,
+              "duration": 3106533209,
               "status": "passed"
             },
             "match": {
@@ -1424,12 +1534,23 @@
         "name": "Filter by review with examples",
         "description": "",
         "id": "filter;filter-by-review-with-examples;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3173215060,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 911434504,
+              "duration": 234934814,
               "status": "passed"
             },
             "line": 9,
@@ -1441,7 +1562,7 @@
           },
           {
             "result": {
-              "duration": 10094516986,
+              "duration": 4841548082,
               "status": "passed"
             },
             "line": 10,
@@ -1462,7 +1583,7 @@
           },
           {
             "result": {
-              "duration": 5132795566,
+              "duration": 1407250748,
               "status": "passed"
             },
             "line": 11,
@@ -1483,7 +1604,7 @@
           },
           {
             "result": {
-              "duration": 3337477879,
+              "duration": 3176160636,
               "status": "passed"
             },
             "line": 12,
@@ -1518,7 +1639,7 @@
         "before": [
           {
             "result": {
-              "duration": 6083583286,
+              "duration": 3500255914,
               "status": "passed"
             },
             "match": {
@@ -1530,12 +1651,23 @@
         "name": "Filter by review with examples",
         "description": "",
         "id": "filter;filter-by-review-with-examples;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 3167070786,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario Outline",
         "steps": [
           {
             "result": {
-              "duration": 499926861,
+              "duration": 5402888,
               "status": "passed"
             },
             "line": 9,
@@ -1547,7 +1679,7 @@
           },
           {
             "result": {
-              "duration": 8469216108,
+              "duration": 1658821664,
               "status": "passed"
             },
             "line": 10,
@@ -1568,7 +1700,7 @@
           },
           {
             "result": {
-              "duration": 5328135476,
+              "duration": 3347484045,
               "status": "passed"
             },
             "line": 11,
@@ -1589,7 +1721,7 @@
           },
           {
             "result": {
-              "duration": 4182447796,
+              "duration": 3958302798,
               "status": "passed"
             },
             "line": 12,

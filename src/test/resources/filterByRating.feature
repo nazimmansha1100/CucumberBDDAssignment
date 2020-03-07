@@ -1,5 +1,5 @@
 @filter
-Feature: Filter
+Feature: Filter by rating
   As an end user
   I want to apply filers
   So that i can find desired product

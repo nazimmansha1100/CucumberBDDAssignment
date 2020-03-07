@@ -43,8 +43,6 @@ public class FilterSteps {
 
     @Then("^I should be able to see products in price range$")
     public void i_should_be_able_to_see_products_in_price_range() {
-
-
     }
 
 }

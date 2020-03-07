@@ -1,5 +1,5 @@
 @addToTrolley
-Feature: Filter
+Feature: Book items with Scenario Outline
   As an end user
   I want to apply filers and add items to my trolley
   So that i can buy desired product
